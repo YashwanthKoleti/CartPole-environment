@@ -2,6 +2,8 @@
 # I used Tensorflow version 2.9.2
 # gym 0.17.0
 # python 2
+# If the code don't run in your pc, change tensorflow,python,gym versions
+# I have also couldn't run the code in tensorflow 2.16.1, gym 0.26.2 , python 3
 #####################
 
 ####################
